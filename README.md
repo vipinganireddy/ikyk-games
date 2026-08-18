@@ -3,7 +3,7 @@
 Fifty browser games in a single HTML file. No build step, no dependencies, no
 network requests. Open the file and play.
 
-**Live:** _[add your Vercel URL here once deployed](https://ikyk-games.vercel.app/)_
+**Live:** _[Play it live](https://ikyk-games.vercel.app/)_
 
 ![IKYK Games](og.jpg)
 
